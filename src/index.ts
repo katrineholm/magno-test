@@ -8,7 +8,7 @@ window.onload = () => {
   // init language handler
   i18next
     .init({
-      lng: 'en',
+      lng: 'no',
       fallbackLng: 'en',
       resources: {
         en: {
